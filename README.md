@@ -22,14 +22,14 @@
 
 ## Примеры визуализаций проекта:
 <div align="center">
-  <img src="Images/Error_abs.png" width="950"/><br>
+  <img src="Images/Error_abs.png" width="550"/><br>
   <b>График абсолютной ошибки</b>
 </div>
 
 <br> <!-- небольшой отступ между картинками -->
 
 <div align="center">
-  <img src="Images/Error_runge.png" width="950"/><br>
+  <img src="Images/Error_runge.png" width="550"/><br>
   <b>Величина ошибки согласно правилу Рунге</b>
 </div>
 
